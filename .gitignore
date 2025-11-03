@@ -3,5 +3,5 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-.src/spare.cpp
-.src/I2C_finder_test.cpp
+src/spare.cpp
+src/I2C_finder_test.cpp
